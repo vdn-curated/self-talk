@@ -8,3 +8,7 @@
 - Don't underestimate the value of domain knowledge
 - Don't stop practicing your communication skills
 
+# Balance of coding and communication
+- Code with careness required quiteness
+- Smooth execution needs your good networking, relationship and communication
+- Both need the fair documentation note for reference back once necessary
