@@ -1,0 +1,15 @@
+1. CASE WHEN. So many great use cases!
+2. Self joins. Common in product user behavior.
+3. DISTINCT and GROUP BY
+4. Left vs outer joins. Need I say more?
+5. UNION. Rarely discussed but frequent.
+6. SUM and COUNT. Nail the foundations!
+7. Date-time manipulation. This will set you apart.
+8. String formatting, substring.
+9. Window functions like rank and row. Absolute gold!
+10. Subqueries. Because they always show up...
+11. HAVING vs WHERE. Do you know why?
+12. LAG and LEAD. What do you use these for?
+13. Understanding indexing. More intermediate.
+14. Running totals. A fun use case to learn.
+15. MAX and MIN. More common than anyone says!
